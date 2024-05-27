@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o repositório `code-base-python`:
-
----
-
 # Code Base Python
 
 Este repositório contém exemplos de soluções em Python baseadas em problemas clássicos da Ciência da Computação. O objetivo é fornecer implementações claras e bem documentadas que possam servir de referência e estudo.
